@@ -1,0 +1,14 @@
+APScheduler==3.4.0
+asn1crypto==0.24.0
+certifi==2017.11.5
+cffi==1.11.2
+chardet==3.0.4
+cryptography==2.1.4
+idna==2.6
+lxml==4.1.1
+pycparser==2.18
+pytz==2017.3
+requests==2.18.4
+six==1.11.0
+tzlocal==1.5.1
+urllib3==1.22
